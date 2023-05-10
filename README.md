@@ -1,3 +1,7 @@
+##  
+Completed task [link](https://drive.google.com/drive/folders/1AaT2k0J5AVfmdk4wtuae8kuKMOR3vnpQ)
+
+
 # Devtools
  1. Открыть Chrome DevTools
  2. Зайти в панель Elements.
